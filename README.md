@@ -1,0 +1,2 @@
+# otomasyonOdevleri
+Otomasyon Odevleri
